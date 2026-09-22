@@ -63,6 +63,12 @@ Currently building and scaling production systems at **Texagon**, working closel
 
 ---
 
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
+
+---
+
 <h3 align="center">⚡ What I Work With</h3>
 
 <p align="center">
