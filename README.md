@@ -220,6 +220,8 @@ Currently building and scaling production systems at **Texagon**, working closel
     alt="GitHub Activity Graph"
   />
 </p>
+
+
 ---
 
 <h3 align="center">🏆 Achievements</h3>
