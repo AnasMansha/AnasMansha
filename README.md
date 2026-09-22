@@ -213,20 +213,24 @@ Currently building and scaling production systems at **Texagon**, working closel
 
 <br />
 
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
-
-<br />
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AnasMansha&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&area_color=58a6ff&hide_border=true"
-    width="95%"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
+<table align="center">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img
+        src="profile-3d-city.svg"
+        alt="3D City"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=AnasMansha&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&area_color=58a6ff&hide_border=true"
+        width="100%"
+        alt="GitHub Activity Graph"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
