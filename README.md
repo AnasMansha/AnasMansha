@@ -25,22 +25,22 @@ Currently building and scaling production systems at **Texagon**, working closel
 
 <p align="center"><b>Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,postgres&theme=dark" />
 </p>
 
 <p align="center"><b>Frontend</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui&theme=dark" />
 </p>
 
-<p align="center"><b>Backend &amp; Databases</b></p>
+<p align="center"><b>Backend & Databases</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,supabase,redis,prisma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,redis&theme=dark" />
 </p>
 
-<p align="center"><b>DevOps &amp; Tools</b></p>
+<p align="center"><b>DevOps & Tools</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions&theme=dark" />
 </p>
 
 ---
