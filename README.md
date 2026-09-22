@@ -25,7 +25,7 @@ Currently building and scaling production systems at **Texagon**, working closel
 
 <p align="center"><b>Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,postgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python&theme=dark" />
 </p>
 
 <p align="center"><b>Frontend Development</b></p>
