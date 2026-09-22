@@ -21,7 +21,7 @@ Currently building and scaling production systems at **Texagon**, working closel
 
 ---
 
-<h3 align="center">⚡ What I Work With</h3>
+<h3 align="center">What I Work With</h3>
 
 <p align="center"><b>Languages</b></p>
 <p align="center">
@@ -45,21 +45,21 @@ Currently building and scaling production systems at **Texagon**, working closel
 
 ---
 
-<h3 align="center">🧠 Core Areas</h3>
+<h3 align="center">Core Areas</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend%20Development-0d1117?style=flat-square&logo=nestjs&logoColor=58a6ff" />&nbsp;
   <img src="https://img.shields.io/badge/REST%20APIs-0d1117?style=flat-square&logo=fastapi&logoColor=58a6ff" />&nbsp;
   <img src="https://img.shields.io/badge/System%20Design-0d1117?style=flat-square&logo=diagramsdotnet&logoColor=58a6ff" />&nbsp;
   <img src="https://img.shields.io/badge/Database%20Design-0d1117?style=flat-square&logo=postgresql&logoColor=58a6ff" />&nbsp;
-  <img src="https://img.shields.io/badge/AI%20Integration-0d1117?style=flat-square&logo=openai&logoColor=58a6ff" />&nbsp;
+  <img src="https://img.shields.io/badge/AI%20Integration-0d1117?style=flat-square&logo=sparkles&logoColor=58a6ff" />&nbsp;
   <img src="https://img.shields.io/badge/Automation-0d1117?style=flat-square&logo=githubactions&logoColor=58a6ff" />&nbsp;
   <img src="https://img.shields.io/badge/Real--Time%20Systems-0d1117?style=flat-square&logo=redis&logoColor=58a6ff" />
 </p>
 
 ---
 
-<h3 align="center">🚀 What I've Built</h3>
+<h3 align="center">What I've Built</h3>
 
 <table align="center">
   <tr>
@@ -103,7 +103,7 @@ Currently building and scaling production systems at **Texagon**, working closel
 
 ---
 
-<h3 align="center">💼 Experience</h3>
+<h3 align="center">Experience</h3>
 
 **Software Engineer — Backend / Full Stack**
 `Texagon · Feb 2025 – Present`
@@ -128,7 +128,7 @@ Currently building and scaling production systems at **Texagon**, working closel
 
 ---
 
-<h3 align="center">📌 Featured Projects</h3>
+<h3 align="center">Featured Projects</h3>
 
 <table align="center">
   <tr>
@@ -160,7 +160,7 @@ Currently building and scaling production systems at **Texagon**, working closel
 
 ---
 
-<h3 align="center">📊 GitHub</h3>
+<h3 align="center">GitHub</h3>
 
 <table align="center">
   <tr>
@@ -189,7 +189,7 @@ Currently building and scaling production systems at **Texagon**, working closel
 
 ---
 
-<h3 align="center">🏆 Achievements</h3>
+<h3 align="center">Achievements</h3>
 
 <p align="center">
   🥇 1st Place — Programming Competition, Superior Technical Symposium
@@ -203,7 +203,7 @@ Currently building and scaling production systems at **Texagon**, working closel
 
 ---
 
-<h3 align="center">🎓 Education</h3>
+<h3 align="center">Education</h3>
 
 <p align="center">
   <b>B.S. Computer Science</b><br />
