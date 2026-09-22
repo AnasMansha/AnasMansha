@@ -28,19 +28,19 @@ Currently building and scaling production systems at **Texagon**, working closel
   <img src="https://skillicons.dev/icons?i=ts,js,python,postgres&theme=dark" />
 </p>
 
-<p align="center"><b>Frontend</b></p>
+<p align="center"><b>Frontend Development</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui&theme=dark" />
 </p>
 
 <p align="center"><b>Backend & Databases</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,flask,postgres,supabase,redis&theme=dark" />
 </p>
 
-<p align="center"><b>DevOps & Tools</b></p>
+<p align="center"><b>DevOps, Cloud & Tools</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions&theme=dark" />
 </p>
 
 ---
