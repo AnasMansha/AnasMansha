@@ -160,25 +160,32 @@ Currently building and scaling production systems at **Texagon**, working closel
 
 <h3 align="center">📌 Featured Projects</h3>
 
-<p align="center">
-
-<a href="https://github.com/AnasMansha/nest-prisma-template">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AnasMansha&repo=nest-prisma-template&theme=github_dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/AnasMansha/calories-tracker-app">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AnasMansha&repo=calories-tracker-app&theme=github_dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/AnasMansha/Interface-Library">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AnasMansha&repo=Interface-Library&theme=github_dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/AnasMansha/mrm_backend">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AnasMansha&repo=mrm_backend&theme=github_dark&hide_border=true" />
-</a>
-
-</p>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/AnasMansha/nest-prisma-template">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AnasMansha&repo=nest-prisma-template&theme=github_dark&hide_border=true&bg_color=0d1117" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/AnasMansha/calories-tracker-app">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AnasMansha&repo=calories-tracker-app&theme=github_dark&hide_border=true&bg_color=0d1117" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/AnasMansha/Interface-Library">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AnasMansha&repo=Interface-Library&theme=github_dark&hide_border=true&bg_color=0d1117" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/AnasMansha/mrm_backend">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AnasMansha&repo=mrm_backend&theme=github_dark&hide_border=true&bg_color=0d1117" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ---
