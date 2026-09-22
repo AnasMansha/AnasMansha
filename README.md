@@ -192,28 +192,34 @@ Currently building and scaling production systems at **Texagon**, working closel
 
 <h3 align="center">📊 GitHub</h3>
 
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnasMansha&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=f0f6fc&icon_color=58a6ff&include_all_commits=true&count_private=true"
+        width="100%"
+        alt="GitHub Statistics"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://streak-stats.demolab.com/?user=AnasMansha&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=f0f6fc&sideNums=58a6ff&currStreakLabel=58a6ff&sideLabels=f0f6fc&dates=8b949e&stroke=30363d"
+        width="100%"
+        alt="GitHub Streak"
+      />
+    </td>
+  </tr>
+</table>
+
+<br />
+
 <p align="center">
   <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnasMansha&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=f0f6fc&icon_color=58a6ff&include_all_commits=true&count_private=true"
-    height="170"
-    alt="GitHub Statistics"
-  />
-
-  <img
-    src="https://streak-stats.demolab.com/?user=AnasMansha&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=f0f6fc&dates=8b949e"
-    height="170"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AnasMansha&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AnasMansha&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&area_color=58a6ff&hide_border=true"
     width="95%"
     alt="GitHub Activity Graph"
   />
 </p>
-
 ---
 
 <h3 align="center">🏆 Achievements</h3>
