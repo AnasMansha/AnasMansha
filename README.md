@@ -52,7 +52,7 @@ Currently building and scaling production systems at **Texagon**, working closel
   <img src="https://img.shields.io/badge/REST%20APIs-0d1117?style=flat-square&logo=fastapi&logoColor=58a6ff" />&nbsp;
   <img src="https://img.shields.io/badge/System%20Design-0d1117?style=flat-square&logo=diagramsdotnet&logoColor=58a6ff" />&nbsp;
   <img src="https://img.shields.io/badge/Database%20Design-0d1117?style=flat-square&logo=postgresql&logoColor=58a6ff" />&nbsp;
-  <img src="https://img.shields.io/badge/AI%20Integration-0d1117?style=flat-square&logo=sparkles&logoColor=58a6ff" />&nbsp;
+  <img src="https://img.shields.io/badge/AI%20Integration-0d1117?style=flat-square&logo=googlecloud&logoColor=58a6ff" />&nbsp;
   <img src="https://img.shields.io/badge/Automation-0d1117?style=flat-square&logo=githubactions&logoColor=58a6ff" />&nbsp;
   <img src="https://img.shields.io/badge/Real--Time%20Systems-0d1117?style=flat-square&logo=redis&logoColor=58a6ff" />
 </p>
