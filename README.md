@@ -43,8 +43,8 @@
 <p align="center">
   <a href="https://linkedin.com/in/muhammad-anas-mansha-113726201"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:anamsansha123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://portfolio.anasmansha123.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=AnasMansha&style=for-the-badge&color=0d1117" />
+  <a href="https://portfolio.anasmansha123.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-242118?style=for-the-badge&logo=googlechrome&logoColor=F5C451" /></a>
+  <img src="https://komarev.com/ghpvc/?username=AnasMansha&style=for-the-badge&color=242118" />
 </p>
 
 <br />
