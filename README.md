@@ -162,15 +162,24 @@ Currently building and scaling production systems at **Texagon**, working closel
 
 <p align="center">
 
-<a href="https://github.com/AnasMansha">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AnasMansha&repo=GTNH-Sync&theme=github_dark&hide_border=true" />
+<a href="https://github.com/AnasMansha/nest-prisma-template">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AnasMansha&repo=nest-prisma-template&theme=github_dark&hide_border=true" />
 </a>
 
-<a href="https://github.com/AnasMansha">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AnasMansha&repo=mass-shl2a-land-processor&theme=github_dark&hide_border=true" />
+<a href="https://github.com/AnasMansha/calories-tracker-app">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AnasMansha&repo=calories-tracker-app&theme=github_dark&hide_border=true" />
+</a>
+
+<a href="https://github.com/AnasMansha/Interface-Library">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AnasMansha&repo=Interface-Library&theme=github_dark&hide_border=true" />
+</a>
+
+<a href="https://github.com/AnasMansha/mrm_backen">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AnasMansha&repo=mrm_backen&theme=github_dark&hide_border=true" />
 </a>
 
 </p>
+
 
 ---
 
