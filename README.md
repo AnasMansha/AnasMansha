@@ -1,39 +1,3 @@
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Muahmmad%20Anas%20Mansha&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=anasmansha">
-    <img src="https://komarev.com/ghpvc/?username=anasmansha&label=Profile%20views&color=00FFFF&style=flat-square" alt="anasmansha's profile views" />
-  </a>
-</p>
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/anasmansha">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anasmansha&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="anasmansha's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=anasmansha&theme=radical&hide_border=true&cache_seconds=86400" alt="anasmansha's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=anasmansha&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Muahmmad Anas Mansha's GitHub Trophies" />
-</p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
-
-
-## 🛠️ Languages & Tools
-<p align="center">
-  <a href="https://github.com/anasmansha">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anasmansha&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-![Top language](https://stats.pphat.top/languages?username=anasmansha)
-<br/>
- -->
-
-<!-- Header -->
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Muhammad+Anas+Mansha;Software+Engineer;Backend+%26+Full-Stack+Developer;Building+Scalable+Systems+%26+AI+Automation" alt="Typing SVG" />
@@ -44,7 +8,7 @@
   <a href="https://linkedin.com/in/muhammad-anas-mansha-113726201"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:anamsansha123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://portfolio.anasmansha123.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-242118?style=for-the-badge&logo=googlechrome&logoColor=F5C451" /></a>
-  <img src="https://komarev.com/ghpvc/?username=AnasMansha&style=for-the-badge&color=242118" />
+  <img src="https://komarev.com/ghpvc/?username=AnasMansha&style=for-the-badge&color=0d1117" />
 </p>
 
 <br />
